@@ -1,6 +1,0 @@
-hi hello
-this is me
-
-
-in main
-
